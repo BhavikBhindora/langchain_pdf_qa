@@ -16,7 +16,7 @@ This project utilizes LangChain to process and analyze PDF documents for questio
 
 ## Setup
 ```bash
-git clone https://github.com/yourusername/langchain_pdf_qa.git
+git clone https://github.com/BhavikBhindora/langchain_pdf_qa.git
 ```
 
 ## Usage
